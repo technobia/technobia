@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Binh Tran, an energized Frontend Lead with a proven track record at NFQ Vietnam Limited. I specialize in JavaScript/TypeScript and excel in team leadership. Over the years, I have spearheaded cross-browser compatibility projects and optimized web application performance, significantly enhancing team efficiency and website conversions through meticulous automation testing and innovative development strategies.
+I'm Binh Tran, an energized Fullstack Developer. I specialize in JavaScript/TypeScript and excel in team leadership. Over the years, I have spearheaded cross-browser compatibility projects and optimized web application performance, significantly enhancing team efficiency and website conversions through meticulous automation testing and innovative development strategies.
 
 ## Skills ✨
 Frontend Development: JavaScript, TypeScript, ReactJS, NextJS, VueJS, AngularJS, RESTs API, GraphQL
