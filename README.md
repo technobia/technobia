@@ -11,7 +11,9 @@ Other Tools: Git, Webpack, Babel
 Design Tools: Photoshop, Illustrator
 
 ## How to reach me 📫
+
 My portfolio: [https://technobia.github.io/portfolio](https://technobia.github.io/portfolio)
+
 LinkedIn: [https://www.linkedin.com/in/binh-tran-3404a7b8](https://www.linkedin.com/in/binh-tran-3404a7b8)
 
 <!--
